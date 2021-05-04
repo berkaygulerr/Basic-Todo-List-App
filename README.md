@@ -1,2 +1,3 @@
 # Basic-Todo-List-App
-Created with CodeSandbox
+Basic Todo List App for Practice
+Made with React.js
