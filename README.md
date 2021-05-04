@@ -1,3 +1,3 @@
 # Basic-Todo-List-App
-Basic Todo List App for Practice
+Basic todo list app for practice.
 Made with React.js
